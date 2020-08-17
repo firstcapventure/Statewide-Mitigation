@@ -1,0 +1,235 @@
+@font-face {
+  font-family: HelveticaLTStd Blk;
+  src: url(../fonts/HelveticaLTStd-Blk.otf);
+}
+* {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    scroll-behavior: smooth;
+}
+.top-bar {
+    height: 100px;
+    padding: 20px 100px 20px 50px;
+}
+.top-bar h1 {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #023b81;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.top-bar img {
+    width: 150px;
+}
+.hero-section {
+    background-image: url(../images/bg1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 40px 100px 40px;
+    height: 600px;
+}
+.hero-section h1 {
+    color: #9b9b9b;
+    font-size: 20px;
+    text-align: center;
+}
+.lang-btn {
+    border: solid 2px #9b9b9b;
+    border-radius: 30px;
+    padding: 5px 40px 5px 40px;
+}
+.hero-img-1 {
+    margin-top: 100px;
+    width: 300px;
+}
+.hero-img-2 {
+    margin-top: 40px;
+    width: 300px;
+}
+.intro-section {
+    padding: 50px 0px 50px 0px;
+}
+.intro-section h1 {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #023b81;
+    font-size: 40px;
+}
+.intro-section h1:nth-child(2) {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #023b81;
+    font-size: 48px;
+    margin-top: -20px;
+}
+.intro-section p {
+    font-size: 20px;
+    color: #9B9B9B;
+    margin-bottom: 50px;
+}
+.intro-section img {
+    width: 60px;
+    height: 65px;
+}
+.intro-section h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #9B9B9B;
+    margin-top: 30px;
+    padding: 0px 50px 0px 50px;
+}
+.gift-card-section {
+    background-image: url(../images/bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 50px 100px 50px;
+    height: 500px;
+}
+.gift-card-section h1 {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #023b81;
+    font-size: 50px;
+    line-height: 1;
+    margin-top: 20px;
+    text-align: right;
+}
+.gift-card-section p {
+    color: #4a4a4a;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: 0px;
+}
+.gift-card-section img {
+    width: 100%;
+}
+.service-section {
+    overflow: hidden;
+    padding: 80px 0px 0px 100px;
+}
+.service-card {
+    margin-right: 100px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 20px 4px #e8e8e8;
+    padding: 20px 50px 20px 50px;
+}
+.service-card img {
+    width: 60px;
+    height: 60px;
+}
+.service-card h1 {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    text-align: center;
+    color: #023b81;
+    font-size: 20px;
+    padding: 20px 0px 20px 0px;
+}
+.service-card p {
+    text-align: left;
+    padding-left: 50px;
+    color: #9b9b9b;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -15px;
+}
+.spacer {
+    margin-bottom: 65px;
+}
+.insurance-section {
+    background: #f4f4f4;
+}
+.insurance-img {
+    background-image: url(../images/bg3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 100%;
+    height: 500px;
+}
+.insurance-section h1 {
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #023b81;
+    font-size: 57px;
+    margin-top: -20px;
+}
+.insurance-section h1:first-child {
+    color: #bf151b;
+    font-size: 40px;
+    margin-top: 0px;
+}
+.insurance-section h1:nth-child(3) {
+    font-size: 48.5px;
+    margin-top: -20px;
+}
+.insurance-section p {
+    color: #4a4a4a;
+    font-size: 16px;
+}
+.insurance-section p:nth-child(4) {
+    padding: 20px 0px 10px 0px;
+    font-weight: bold;
+}
+.insurance-section p:nth-child(5) {
+    padding: 0px 0px 20px 0px;
+    margin-bottom: 0px;
+}
+.insurance-section p:nth-child(7) {
+    margin-top: -20px;
+}
+.insurance-section p:nth-child(8) {
+    margin-top: -20px;
+}
+.insurance-section p:nth-child(9) {
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.insurance-section p:nth-child(10) {
+    color : #EC4343;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.insurance-section-inner {
+    overflow: hidden;
+    padding: 40px;
+}
+.contact-section {
+    padding: 40px 50px 40px 50px;
+    background: #12c2f2;
+}
+.contact-section h1{
+    font-family: 'HelveticaLTStd Blk', 'Arial', sans-serif;
+    color: #ffffff;
+    font-size: 35px;
+}
+.contact-section h1:nth-child(2) {
+    font-size: 32px;
+    margin-top: -20px;
+}
+.contact-section h1:nth-child(3) {
+    font-size: 34px;
+    margin-top: -20px;
+}
+.contact-section p {
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 15px;
+}
+.contact-section p:last-child {
+    margin-top: -25px;
+}
+.contact-section img {
+    width: 70%;
+    margin-top: 30px;
+}
+.footer-section {
+    background: #023b81;
+    padding: 40px 0px;
+}
+.footer-section img {
+    width: 200px;
+}
+.footer-section p {
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 30px;
+}
+.footer-section p:last-child {
+    margin-top: -20px;
+}

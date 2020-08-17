@@ -1,0 +1,469 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .top-bar {
+        padding: 15px 5px 15px 20px;
+    }
+    .top-bar img {
+        width: 140px;
+    }
+    .top-bar h1 {
+        font-size: 22px;
+        padding: 10px 0px 0px 0px;
+    }
+    .hero-section {
+        height: 450px;
+        padding: 30px 20px 100px 20px;
+        background-position: center;
+    }
+    .hero-img-1 {
+        margin-top: 10vh;
+        width: 180px;
+    }
+    .hero-img-2 {
+        width: 180px;
+        margin-top: 30px;
+    }
+    .hero-section h1 {
+        font-size: 12px;
+        text-align: left;
+    }
+    .alignment {
+        text-align: center!important;
+    }
+    .lang-btn {
+        padding: 5px 15px 5px 15px;
+        margin-top: -6px;
+    }
+    .intro-section {
+        padding: 40px 0px 20px 0px;
+    }
+    .intro-section h1 {
+        font-size: 25px;
+    }
+    .intro-section h1:nth-child(2) {
+        margin-top: -10px;
+        font-size: 30px;
+    }
+    .intro-section p {
+        font-size: 14px;
+        margin-bottom: 35px;
+    }
+    .intro-section h3 {
+        font-size: 16px;
+        margin: 10px 0px 20px 0px;
+        padding: 0px 80px 0px 80px;
+    }
+    .gift-card-section {
+        padding: 30px 20px 20px 20px;
+        height: 400px;
+    }
+    .gift-card-section h1 {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .gift-card-section p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .gift-card-section img {
+        width: 90%;
+    }
+    .service-section {
+        padding: 80px 30px 20px 30px;
+    }
+    .service-card {
+        margin-right: 0px;
+        margin-bottom: 40px;
+        padding: 20px 30px 20px 30px;
+    }
+    .service-card h1 {
+        font-size: 18px;
+        padding: 30px 0px 30px 0px;
+    }
+    .service-card p {
+        padding-left: 40px;
+        font-size: 14px;
+        margin-top: -15px;
+    }
+    .insurance-section-inner {
+        padding: 50px 30px 35px 30px;
+    }
+    .insurance-section img {
+        height: 400px;
+    }
+    .insurance-section h1 {
+        font-size: 35px;
+        margin-top: -15px;
+    }
+    .insurance-section h1:first-child {
+        color: #bf151b;
+        font-size: 25px;
+        margin-top: 0px;
+    }
+    .insurance-section h1:nth-child(3) {
+        font-size: 30px;
+        margin-top: -15px;
+    }
+    .insurance-section p {
+        font-size: 14px;
+    }
+    .insurance-section p:nth-child(4) {
+        padding: 10px 0px 5px 0px;
+    }
+    .insurance-section p:nth-child(5) {
+        padding: 0px 0px 5px 0px;
+    }
+    .insurance-section p:nth-child(9) {
+        margin-bottom: 20px;
+    }
+    .contact-section {
+        padding: 40px 30px 40px 30px;
+    }
+    .contact-section h1 {
+        font-size: 30px;
+    }
+    .contact-section h1:nth-child(2) {
+        font-size: 27.5px;
+        margin-top: -15px;
+    }
+    .contact-section h1:nth-child(3) {
+        font-size: 29px;
+        margin-top: -15px;
+    }
+    .contact-section p {
+        font-size: 13px;
+    }
+    .contact-section p:last-child {
+        margin-top: -20px;
+    }
+    .contact-section img {
+        width: 95%;
+        margin-top: 10px;
+    }
+    .footer-section {
+        background: #023b81;
+        padding: 40px 20px 30px 20px;
+    }
+    .footer-section img {
+        width: 60%;
+    }
+    .footer-section p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .top-bar {
+        padding: 20px 20px 20px 20px;
+    }
+    .top-bar h1 {
+        font-size: 30px;
+        padding: 20px 0px 0px 0px;
+    }
+    .hero-section {
+        height: 500px;
+        padding: 30px 30px 100px 30px;
+        background-position: center;
+    }
+    .hero-img-1 {
+        margin-top: 10vh;
+        width: 250px;
+    }
+    .hero-img-2 {
+        width: 250px;
+    }
+    .hero-section h1 {
+        font-size: 16px;
+        text-align: left;
+    }
+    .alignment {
+        text-align: center!important;
+    }
+    .lang-btn {
+        padding: 5px 25px 5px 25px;
+        margin-top: -6px;
+    }
+    .intro-section {
+        padding: 40px 40px 30px 40px;
+    }
+    .intro-section h1 {
+        font-size: 25px;
+    }
+    .intro-section h1:nth-child(2) {
+        margin-top: -10px;
+        font-size: 30px;
+    }
+    .intro-section p {
+        font-size: 14px;
+        margin-bottom: 35px;
+    }
+    .intro-section h3 {
+        font-size: 16px;
+        margin: 10px 0px 20px 0px;
+        padding: 0px 80px 0px 80px;
+    }
+    .gift-card-section {
+        padding: 30px 20px 20px 20px;
+        height: 400px;
+    }
+    .gift-card-section h1 {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .gift-card-section p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .gift-card-section img {
+        width: 380px;
+        margin-left: 50px;
+    }
+    .service-section {
+        padding: 60px 80px 20px 80px;
+    }
+    .service-card {
+        margin-right: 0px;
+        margin-bottom: 40px;
+        padding: 20px 30px 20px 30px;
+    }
+    .service-card h1 {
+        font-size: 18px;
+        padding: 30px 0px 30px 0px;
+    }
+    .service-card p {
+        padding-left: 40px;
+        font-size: 14px;
+        margin-top: -15px;
+    }
+    .insurance-section-inner {
+        padding: 50px 30px 35px 30px;
+    }
+    .insurance-section img {
+        height: 400px;
+    }
+    .insurance-section h1 {
+        font-size: 35px;
+        margin-top: -15px;
+    }
+    .insurance-section h1:first-child {
+        color: #bf151b;
+        font-size: 25px;
+        margin-top: 0px;
+    }
+    .insurance-section h1:nth-child(3) {
+        font-size: 30px;
+        margin-top: -15px;
+    }
+    .insurance-section p {
+        font-size: 14px;
+    }
+    .insurance-section p:nth-child(4) {
+        padding: 10px 0px 5px 0px;
+    }
+    .insurance-section p:nth-child(5) {
+        padding: 0px 0px 5px 0px;
+    }
+    .insurance-section p:nth-child(9) {
+        margin-bottom: 20px;
+    }
+    .contact-section {
+        padding: 40px 30px 40px 30px;
+    }
+    .contact-section h1 {
+        font-size: 30px;
+    }
+    .contact-section h1:nth-child(2) {
+        font-size: 27.5px;
+        margin-top: -15px;
+    }
+    .contact-section h1:nth-child(3) {
+        font-size: 29px;
+        margin-top: -15px;
+    }
+    .contact-section p {
+        font-size: 13px;
+    }
+    .contact-section p:last-child {
+        margin-top: -20px;
+    }
+    .contact-section img {
+        width: 70%;
+        margin-top: 10px;
+    }
+    .footer-section {
+        background: #023b81;
+        padding: 40px 20px 30px 20px;
+    }
+    .footer-section img {
+        width: 40%;
+    }
+    .footer-section p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .top-bar {
+        height: 100px;
+        padding: 20px 50px 20px 50px;
+    }
+    .top-bar h1 {
+        font-size: 25px;
+    }
+    .hero-section {
+        height: 500px;
+        padding: 30px 50px 100px 50px;
+        background-position: center;
+    }
+    .hero-section h1 {
+        font-size: 16px;
+        text-align: left;
+    }
+    .alignment {
+        text-align: center!important;
+    }
+    .lang-btn {
+        padding: 5px 35px 5px 35px;
+        margin-top: -6px;
+    }
+    .hero-img-1 {
+        margin-top: 10vh;
+        width: 250px;
+    }
+    .hero-img-2 {
+        width: 250px;
+    }
+    .intro-section {
+        padding: 40px 40px 40px 40px;
+    }
+    .intro-section h1 {
+        font-size: 35px;
+    }
+    .intro-section h1:nth-child(2) {
+        font-size: 42px;
+    }
+    .intro-section p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .intro-section h3 {
+        padding: 0px 150px 0px 150px;
+        margin-bottom: 30px;
+    }
+    .gift-card-section h1 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .gift-card-section p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .gift-card-section img {
+        width: 400px;
+        margin-left: 20%;
+    }
+    .service-section {
+        padding: 80px 150px 10px 150px;
+    }
+    .service-card {
+        margin-right: 0px;
+        margin-bottom: 60px;
+    }
+    .service-card p {
+        padding-left: 25%;
+        font-size: 16px;
+        margin-top: -15px;
+    }
+    .insurance-section img {
+        width: 100%;
+    }
+    .insurance-section h1 {
+        font-size: 57px;
+    }
+    .insurance-section h1:first-child {
+        font-size: 40px;
+    }
+    .insurance-section h1:nth-child(3) {
+        font-size: 48px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .top-bar {
+        padding: 20px 50px 20px 100px;
+    }
+    .hero-section {
+        height: 520px;
+        padding: 30px 40px 100px 50px;
+    }
+    .hero-section h1 {
+        font-size: 18px;
+    }
+    .hero-img-1 {
+        margin-top: 8vh;
+        width: 95%;
+    }
+    .hero-img-2 {
+        width: 95%;
+    }
+    .lang-btn {
+        margin-top: -7px;
+    }
+    .gift-card-section {
+        height: 450px;
+        padding: 30px 50px 100px 50px;
+    }
+    .gift-card-section h1 {
+        font-size: 40px;
+        margin-top: 30px;
+    }
+    .gift-card-section p {
+        font-size: 16px;
+    }
+    .gift-card-section img {
+        width: 110%;
+    }
+    .intro-section {
+        padding: 50px;
+    }
+    .intro-section h3 {
+        padding: 0px;
+    }
+    .service-section {
+        padding: 60px 100px 20px 100px;
+    }
+    .service-card {
+        margin-right: 0px;
+        padding: 30px 20px 30px 20px;
+    }
+    .service-card p {
+        padding-left: 65px;
+    }
+    .insurance-section-inner {
+        padding: 30px;
+    }
+    .insurance-section h1 {
+        font-size: 50px;
+    }
+    .insurance-section h1:first-child {
+        font-size: 35px;
+    }
+    .insurance-section h1:nth-child(3) {
+        font-size: 42px;
+    }
+    .insurance-section p {
+        font-size: 16px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+}
