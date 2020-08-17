@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statewide Mitigation</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive-combined.css">
+</head>
+<body>
+               
+                <!-- top-bar starts here -->
+                
+   <div class="top-bar">
+       <div class="container-fluid">
+           <div class="row">
+               <div class="col-6">
+                   <a href="#"><img src="images/site-logo.png" alt="statewide mitigation"></a>
+               </div>
+               
+               <div class="col-6">
+                   <h1 class="float-right">754-800-1711</h1>
+               </div>
+           </div>
+       </div>
+   </div>
+                <!-- top-bar ends here -->
+                
+                
+                <!-- hero-section starts here -->
+                
+    <div class="hero-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-0 col-xl-2">
+                </div>
+               
+                <div class="col-3 col-lg-2">
+                    <h1>EXPERIENCED</h1>
+                </div>
+                
+                <div class="col-3 col-lg-2">
+                    <h1 class="alignment">QUALIFIED</h1>
+                </div>
+                
+                <div class="col-3 col-lg-2">
+                    <h1>ENDORSED</h1>
+                </div>
+                
+                <div class="col-3 col-lg-4">
+                    <h1 class="lang-btn float-right">Espanol</h1>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-6 col-lg-4">
+                    <img src="images/hero-text.png" alt="water amage? mold problem?" class="hero-img-1">
+                    <img src="images/offer.png" alt="24/7 service" class="hero-img-2">
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- hero-section ends here -->
+                
+                
+                <!-- intro-section starts here -->
+                
+    <div class="intro-section">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-12">
+                    <h1>WE ARE YOUR FLORIDA</h1>
+                    <h1>MOLD SPECIALISTS</h1>
+                    <p>You may be putting your family in danger! Water damage and ﬂooding can lead to <strong>MOLD</strong>. Which can cause <strong>ILLNESS</strong>.</p>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12 col-lg-4">
+                    <img src="images/logo1.png" alt="">
+                    <h3>PROFESSIONAL TECHNICIANS SENT TO YOUR HOME</h3>
+                </div>
+                
+                <div class="col-md-12 col-lg-4">
+                    <img src="images/logo2.png" alt="">
+                    <h3>ROUND THE CLOCK CUSTOMER SUPPORT</h3>
+                </div>
+                
+                <div class="col-md-12 col-lg-4">
+                    <img src="images/logo3.png" alt="">
+                    <h3>100% SATISFACTION GUARANTEED!</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- intro-section ends here -->
+                
+                
+                <!-- gift-card-section starts here -->
+                
+    <div class="gift-card-section">
+        <div class="container-fluid">
+            <div class="row">
+               <div class="col-0 col-lg-8">
+                </div>
+                
+                <div class="col-12 col-lg-4">
+                    <h1>FREE MOLD INSPECTION</h1>
+                    <p>Gift card provided to homeowner after entering agreement for insurance claim services.</p>
+                    <img src="images/gift-card.png" alt="gift card">
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- gift-card-section ends here -->
+                
+                
+                <!-- service-section starts here -->
+                
+    <div class="service-section">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-md-12 col-lg-6">
+                    <div class="service-card">
+                        <img src="images/service-logo1.png" alt="environmental services">
+                        <h1>ENVIRONMENTAL SERVICES</h1>
+                        <p>• Environmental consulting</p>
+                        <p>• Clearance certiﬁcates</p>
+                        <p>• Expert Testimony</p>
+                        <p>• Cleaning & Maintenance</p>
+                        <p>• Mold Prevention</p>
+                        <p>• Tenant/Landlord</p>
+                        <p>• Condensation/ Moisture</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-12 col-lg-6">
+                    <div class="service-card">
+                        <img src="images/service-logo2.png" alt="environmental services">
+                        <h1>MOLD INSPECTION SERVICES</h1>
+                        <p>• Mold assessment</p>
+                        <p>• Mold sampling</p>
+                        <p>• Air quality testing</p>
+                        <p>• Pre-purchase mold inspection</p>
+                        <p>• Moisture inspection</p>
+                        <p>• Condensation Testing</p>
+                        <p>• Humidity Testing</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-12 col-lg-6">
+                    <div class="service-card">
+                        <img src="images/service-logo3.png" alt="environmental services">
+                        <h1>WATER DAMAGE RESTORATION</h1>
+                        <p>• Sewage mitigation</p>
+                        <p>• Structural drying</p>
+                        <p>• Steam sanitation</p>
+                        <p>• Stormwater clean-up</p>
+                        <p class="spacer">• All water damage</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-12 col-lg-6">
+                    <div class="service-card">
+                        <img src="images/service-logo4.png" alt="environmental services">
+                        <h1>MOLD REMEDIATION SERVICES</h1>
+                        <p>• Mold remediation</p>
+                        <p>• Proposals</p>
+                        <p>• Organic materials</p>
+                        <p>• Odor removal</p>
+                        <p>• Air quality</p>
+                        <p>• Allergens</p>
+                        <p>• CO2 hydrogenation</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- service-section ends here -->
+                
+                
+                <!-- insurance-section starts here -->
+                
+    <div class="insurance-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 col-lg-5 insurance-img overflow-hidden p-0">
+                    
+                </div>
+                
+                <div class="col-md-12 col-lg-7 overflow-hidden p-0">
+                    <div class="insurance-section-inner">
+                        <h1>STATEWIDE MITIGATION</h1>
+                    <h1>PROTECTS YOUR</h1>
+                    <h1>INSURANCE RIGHTS</h1>
+                    <p>WE ARE INSURANCE CLAIMS SPECIALISTS.</p>
+                    <p>Our customer service team will take the hassle out of the insurance process for you.</p>
+                    <p>• We are experienced and qualiﬁed</p>
+                    <p>• We work directly with your insurance adjuster</p>
+                    <p>• Our Customer Service and Technicians are on call 24/7</p>
+                    <p>• Our service is 100% guaranteed</p>
+                    <p>Don’t let mold or water damage catch you unaware. Let Statewide Mitigation help today.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- insurance-section ends here -->
+                
+                
+                
+                <!-- contact-section starts here -->
+                
+    <div class="contact-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 col-lg-6">
+                    <h1>DON'T LET A MOLD</h1>
+                    <h1>PROBLEM OR WATER</h1>
+                    <h1>DAMAGE COST YOU</h1>
+                    <p>Mold Inspection Services • Mold Remediation Services</p>
+                    <p>Environmental Services • Water Damage Restoration</p>
+                </div>
+                
+                <div class="col-md-12 col-lg-6">
+                    <img src="images/contact-info.png" alt="contact info">
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- contact-section ends here -->
+                
+                
+                
+                <!-- footer-section starts here -->
+                
+    <div class="footer-section">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-12">
+                    <img src="images/site-logo-alt.png" alt="site logo alt">
+                    <p>StatewideMitigation.com</p>
+                    <p>info@StatewideMitigation.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+                <!-- footer-section ends here -->
+ 
+</body>
+</html>
